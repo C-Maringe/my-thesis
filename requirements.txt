@@ -1,0 +1,7 @@
+# This is my requirements.txt file
+scikit-learn
+flask
+flask_cors
+xgboost
+waitress
+uvicorn
